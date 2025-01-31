@@ -6,6 +6,11 @@ public class DemoTestA2 {
 		int b = 5;
 		int result = a+b;
 		System.out .println(a+b);
+		int x=10;
+		int y = 20;
+		if (x>y){
+			System.out.println("greater");
+		}else{System.out.println(less);
 		
 		
 		
