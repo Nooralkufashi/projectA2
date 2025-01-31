@@ -7,6 +7,10 @@ public class DemoTestA2 {
 		int result = a+b;
 		System.out .println(a+b);
 		
+		
+		
 	}
+	//noor
+	String name="noor";
 
 }
